@@ -1,1 +1,7 @@
 /video2.h264
+.vscode
+*.h264
+*.avi
+/.vscode/settings.json
+
+
